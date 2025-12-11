@@ -123,7 +123,7 @@ function CashRewardsLanding() {
           </p>
 
           {/* CTA Button */}
-          <a href="YOUR_REDIRECT_URL_HERE" className="block w-full bg-gradient-to-r from-green-500 to-emerald-500 text-black font-bold py-4 px-6 rounded-full text-lg shadow-lg shadow-green-500/40 active:scale-95 transition-transform duration-150 mb-3 text-center">
+          <a href="https://CBkJIMJvUJJW.myfunnelish.com/dsifnhiensn" className="block w-full bg-gradient-to-r from-green-500 to-emerald-500 text-black font-bold py-4 px-6 rounded-full text-lg shadow-lg shadow-green-500/40 active:scale-95 transition-transform duration-150 mb-3 text-center">
             Start Earning Now →
           </a>
 
