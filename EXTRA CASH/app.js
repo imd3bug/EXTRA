@@ -123,7 +123,7 @@ function CashRewardsLanding() {
           </p>
 
           {/* CTA Button */}
-          <a href="https://www.mexicaliblues.com/products/mexicali-patterned-wool-hoodie-jacket?variant=41988841078847&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c" className="block w-full bg-gradient-to-r from-green-500 to-emerald-500 text-black font-bold py-4 px-6 rounded-full text-lg shadow-lg shadow-green-500/40 active:scale-95 transition-transform duration-150 mb-3 text-center">
+          <a href="https://www.ch6rrl8trk.com/3KFRZ6/293Z4R/?sub1=ftest1" className="block w-full bg-gradient-to-r from-green-500 to-emerald-500 text-black font-bold py-4 px-6 rounded-full text-lg shadow-lg shadow-green-500/40 active:scale-95 transition-transform duration-150 mb-3 text-center">
             Start Earning Now →
           </a>
 
